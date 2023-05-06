@@ -65,6 +65,6 @@ Lab's website:
 http://www.bidslab.org/index.html
 
 
-Email: TzuAn_Song(at)student.uml.edu, 
+Email: tzuansong(at)umass.edu, 
        TzuAn.Song(at)MGH.HARVARD.EDU, 
        alansoong200(at)gamil.com.
