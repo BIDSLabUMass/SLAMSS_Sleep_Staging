@@ -1,5 +1,6 @@
 # AI-Driven Sleep Staging from Actigraphy and HeartRate
-<!-- Tzu-An Song<sup>1</sup>, Samadrita Roy Chowdhury<sup>1</sup>, Fan Yang<sup>1</sup>, Joyita Dutta<sup>1</sup></br>
+<!-- 
+Tzu-An Song<sup>1</sup>, Samadrita Roy Chowdhury<sup>1</sup>, Fan Yang<sup>1</sup>, Joyita Dutta<sup>1</sup></br>
 <sup>1</sup>Department of Electrical and Computer Engineering, University of Massachusetts Lowell, Lowell, MA, 01854 USA and co-affiliated with Massachusetts General Hospital, Boston, MA, 02114.
 
 The intrinsically low spatial resolution of positron emission tomography (PET) leads to image quality degradation and inaccurate image-based quantitation. Recently developed supervised super-resolution (SR) approaches are of great relevance to PET but require paired low- and high-resolution images for training, which are usually unavailable for clinical datasets. In this paper, we present a self-supervised SR (SSSR) technique for PET based on dual generative adversarial networks (GANs), which precludes the need for paired training data, ensuring wider applicability and adoptability. The SSSR network receives as inputs a low-resolution PET image, a high-resolution anatomical magnetic resonance (MR) image, spatial information (axial and radial coordinates), and a high-dimensional feature set extracted from an auxiliary CNN which is separately-trained in a supervised manner using paired simulation datasets. The network is trained using a loss function which includes two adversarial loss terms, a cycle consistency term, and a total variation penalty on the SR image. We validate the SSSR technique using a clinical neuroimaging dataset. We demonstrate that SSSR is promising in terms of image quality, peak signal-to-noise ratio, structural similarity index, contrast-to-noise ratio, and an additional no-reference metric developed specifically for SR image quality assessment. Comparisons with other SSSR variants suggest that its high performance is largely attributable to simulation guidance.
@@ -56,9 +57,9 @@ If this work inspires you, please cite our paper:
 		pages = {83--91},
 	}
 }
-
-## UMASS_LOWELL_BIDSLab
-Biomedical Imaging & Data Science Laboratory -->
+-->
+## UMASS_Amherst_BIDSLab
+Biomedical Imaging & Data Science Laboratory
 
 Lab's website:
 http://www.bidslab.org/index.html
