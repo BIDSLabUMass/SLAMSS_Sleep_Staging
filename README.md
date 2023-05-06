@@ -66,6 +66,4 @@ http://www.bidslab.org/index.html
 
 
 Email: bidslab(at)gmail.com,
-       tzuansong(at)umass.edu, 
-       TzuAn.Song(at)MGH.HARVARD.EDU, 
-       alansoong200(at)gamil.com.
+       tzuansong(at)umass.edu.
