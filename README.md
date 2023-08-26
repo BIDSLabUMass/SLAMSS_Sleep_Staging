@@ -55,7 +55,7 @@ If this work inspires you, please cite our paper:
     year = {2023},
     month = {05},
     volume = {18},
-    url = {https://doi.org/10.1371/journal.pone.0285703},
+    url = {[https://doi.org/10.1371/journal.pone.0285703](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285703)},
     pages = {1-29},
     number = {5},
 
