@@ -1,4 +1,4 @@
-# AI-Driven Sleep Staging from Actigraphy and HeartRate
+# AI-Driven Sleep Staging from Actigraphy and Heart Rate
 
 
 Tzu-An Song, Samadrita Roy Chowdhury, Masoud Malekzadeh, Stephanie Harrison, Terri Blackwell Hoge, Susan Redline, Katie L. Stone, Richa Saxena, Shaun M. Purcell, Joyita Dutta 
